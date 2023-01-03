@@ -10,7 +10,9 @@
 - 🌱 An insatiable desire to learn in order to become a good developer  
 - 🏋️‍♀️ Work out every day so I don't kill myself, soon the huge and shredded Greek god
 - 🎥 streaming every night from 10 pm Paris time
-<br/>  
+
+<br/>
+
 # My Skill Set  
 <table><tr><td valign="top" width="33%">
 
