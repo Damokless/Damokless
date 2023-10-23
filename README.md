@@ -15,22 +15,22 @@
 
 # Connect with me
 <div align="center">
-<a href="https://linkedin.com/in/alexandre-bouzon" target="_blank" style="text-decoration: none;">
+<a href="https://linkedin.com/in/alexandre-bouzon" target="_blank" style="text-decoration: none">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/Dam0kles" target="_blank" style="text-decoration: none;">
+<a href="https://twitter.com/Dam0kles" target="_blank" style="text-decoration: none">
+<img src=https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.tiktok.com/@damokless_" target="_blank" style="text-decoration: none">
 <img src=https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.tiktok.com/@damokless_" target="_blank" style="text-decoration: none;">
+<a href="https://instagram.com/damokless_" target="_blank" style="text-decoration: none">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/damokless_" target="_blank" style="text-decoration: none;">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/user/@dam0kles" target="_blank" style="text-decoration: none;">
+<a href="https://www.youtube.com/@dam0kles" target="_blank" style="text-decoration: none">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.twitch.tv/damokless" target="_blank" style="text-decoration: none;">
+<a href="https://www.twitch.tv/damokless" target="_blank" style="text-decoration: none">
 <img src=https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
 </div>
