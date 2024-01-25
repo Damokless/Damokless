@@ -6,7 +6,7 @@
 ## <div align="center">I'm Damokles, a full-stack  developer 👨‍💻 </div>
   <br>
 
-- 🔭 Currently a student at Efrei
+- 🔭 Currently ~~a student at Efrei~~ a jobless Fullstack developer (JavaScript/TS/Node), Working at @DisneylandParis as castmember until I find a job as a dev
 - 🌱 An insatiable desire to learn in order to become a good developer
 - 🏋️‍♀️ Work out every day so I don't kill myself, soon the huge and shredded Greek god
 - 🎥 streaming every night from 10 pm Paris time
