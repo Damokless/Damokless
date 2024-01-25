@@ -106,7 +106,7 @@
 
 # Github Stats
 <br>
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=damokless&show_icons=true&count_private=true&hide_border=true" align="right" style="width: 100%" /></div>
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=damokless&show_icons=true&count_private=true&hide_border=true&theme=dark" align="right" style="width: 100%" /></div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damokless&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damokless&hide_border=true&layout=compact&theme=dark" align="left" style="width: 100%" />
 <br />
